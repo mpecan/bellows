@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/mpecan/bellows.svg?branch=master)](https://travis-ci.org/mpecan/bellows)
 # bellows
 Flatten and expand golang maps and structs
 
